@@ -8,4 +8,4 @@ SQLALchemy
 pyJWT
 alembic
 fastapi-cors
-bcrypt
+bcryp
